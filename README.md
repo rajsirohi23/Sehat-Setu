@@ -2,6 +2,10 @@
 
 A comprehensive healthcare platform for migrant workers in Kerala, featuring AI-powered medical assistance, secure health record management, and telemedicine consultations.
 
+## 🚀 Live Demo
+
+🌐 Frontend: https://sehat-setu-7w40.onrender.com/
+
 ## 🚀 Quick Start
 
 ### Backend Setup
